@@ -1,4 +1,7 @@
-# MediaOverland Fork was done with teh goal to modify teh Tyepface to match the creative philosophy of Media Overland and will be used for Digital, Printed and Web texts. 
+# MediaOverland
+by Nikola Karandjulov
+
+Fork was done with teh goal to modify teh Tyepface to match the creative philosophy of Media Overland and will be used for Digital, Printed and Web texts. 
 
 if you find teh modifies Typeface pleasing please Enjoy
 
