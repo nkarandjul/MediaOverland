@@ -10,3 +10,4 @@
 # Name <email address>
 
 Eli Heuer <eliheuer@gmail.com>
+Nikola Karandjulov <nikola@Karandjulov.de>

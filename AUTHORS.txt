@@ -6,3 +6,5 @@
 # Name or Organization <email address>
 
 Julia Petretta <julia.petretta@gmail.com>
+Eli Heuer <eliheuer@gmail.com>
+Nikola Karandjulov <nikola@Karandjulov.de>
